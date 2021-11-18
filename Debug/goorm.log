@@ -1,0 +1,3 @@
+﻿  test_4.c
+C:\Users\jamie\source\repos\goorm\test_4.c(6,8): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+  goorm.vcxproj -> C:\Users\jamie\source\repos\goorm\Debug\goorm.exe
